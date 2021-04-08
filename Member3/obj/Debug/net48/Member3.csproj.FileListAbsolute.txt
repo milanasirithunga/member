@@ -1,0 +1,11 @@
+C:\Users\milan\source\repos\Member3\Member3\obj\Debug\net48\Member3.csprojAssemblyReference.cache
+C:\Users\milan\source\repos\Member3\Member3\obj\Debug\net48\Member3.Form1.resources
+C:\Users\milan\source\repos\Member3\Member3\obj\Debug\net48\Member3.csproj.GenerateResource.cache
+C:\Users\milan\source\repos\Member3\Member3\obj\Debug\net48\Member3.AssemblyInfoInputs.cache
+C:\Users\milan\source\repos\Member3\Member3\obj\Debug\net48\Member3.AssemblyInfo.cs
+C:\Users\milan\source\repos\Member3\Member3\obj\Debug\net48\Member3.csproj.CoreCompileInputs.cache
+C:\Users\milan\source\repos\Member3\Member3\bin\Debug\net48\Member3.exe.config
+C:\Users\milan\source\repos\Member3\Member3\bin\Debug\net48\Member3.exe
+C:\Users\milan\source\repos\Member3\Member3\bin\Debug\net48\Member3.pdb
+C:\Users\milan\source\repos\Member3\Member3\obj\Debug\net48\Member3.exe
+C:\Users\milan\source\repos\Member3\Member3\obj\Debug\net48\Member3.pdb
